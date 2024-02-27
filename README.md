@@ -1,6 +1,6 @@
 # Minecraft Bedrock Online Bot with Xbox account for server
 ## How to use
-### Command line:
+### Command line
 Create a file and name it **index.js**
 paste this code in **index.js** file 
 ```js
@@ -18,5 +18,7 @@ then run: ``npm install bedrock-protocol``
 
 To start the bot run: ``node index.js``- required your server be online 
 - to add your server ip open index.js then put replace **myrandomserver.net** your server ip
-### Discord: 
+### Discord
 https://discord.gg/wGx6kK5C3q
+### Video Tutorial
+https://youtu.be/vwoQPdJaC7o?si=u9dk30-iIVcJteSr
