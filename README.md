@@ -13,10 +13,10 @@ const client = bedrock.createClient({
 })
 ```
 run: ``npm init -y``
+
 then run: ``npm install bedrock-protocol``
+
 To start the bot run: ``node index.js``- required your server be online 
-### to add your server ip open index.js then put replace **myrandomserver.net** your server ip
-
-
+- to add your server ip open index.js then put replace **myrandomserver.net** your server ip
 ### Discord: 
 https://discord.gg/wGx6kK5C3q
